@@ -48,7 +48,7 @@
             this.ClientSize = new System.Drawing.Size(284, 262);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Hotfix 1";
             this.ResumeLayout(false);
 
         }
